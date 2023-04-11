@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1681166774 source:c:\users\sanchez\desktop\programacion\programacion en c\ejercicios\desarrollo.c
+
+1681070888 source:c:\users\sanchez\desktop\programacion\programacion en c\ejercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"basicos.h"
+	"Punteros.h"
+
+1680882077 c:\users\sanchez\desktop\programacion\programacion en c\ejercicios\basicos.h
+
+1680884930 c:\users\sanchez\desktop\programacion\programacion en c\ejercicios\punteros.h
+
